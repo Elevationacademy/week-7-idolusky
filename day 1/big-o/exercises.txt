@@ -1,0 +1,5 @@
+exercise 1 - O(n)
+exercise 2 - O(logn) a little unclear
+exercise 3 - O(1)
+exercise 4 - O(mn)
+exercise 5 - O(n)
